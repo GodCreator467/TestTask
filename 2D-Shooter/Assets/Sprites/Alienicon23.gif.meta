@@ -1,0 +1,560 @@
+fileFormatVersion: 2
+guid: 147bde54ddb07dc44adb4e7face4db8f
+timeCreated: 1511395963
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Alienicon23_0
+    21300002: Alienicon23_1
+    21300004: Alienicon23_2
+    21300006: Alienicon23_3
+    21300008: Alienicon23_4
+    21300010: Alienicon23_5
+    21300012: Alienicon23_6
+    21300014: Alienicon23_7
+    21300016: Alienicon23_8
+    21300018: Alienicon23_9
+    21300020: Alienicon23_10
+    21300022: Alienicon23_11
+    21300024: Alienicon23_12
+    21300026: Alienicon23_13
+    21300028: Alienicon23_14
+    21300030: Alienicon23_15
+    21300032: Alienicon23_16
+    21300034: Alienicon23_17
+    21300036: Alienicon23_18
+    21300038: Alienicon23_19
+    21300040: Alienicon23_20
+    21300042: Alienicon23_21
+    21300044: Alienicon23_22
+    21300046: Alienicon23_23
+    21300048: Alienicon23_24
+    21300050: Alienicon23_25
+    21300052: Alienicon23_26
+    21300054: Alienicon23_27
+    21300056: Alienicon23_28
+    21300058: Alienicon23_29
+    21300060: Alienicon23_30
+    21300062: Alienicon23_31
+    21300064: Alienicon23_32
+    21300066: Alienicon23_33
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Alienicon23_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 178
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_1
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 178
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_2
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 178
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_3
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 178
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_4
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 177
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_5
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 177
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_6
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 177
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_7
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 177
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_8
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 177
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_9
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 82
+        width: 77
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_10
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 178
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_11
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 178
+        width: 53
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_12
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 152
+        width: 36
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_13
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 153
+        width: 32
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_14
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 155
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 152
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_16
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 139
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_17
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 131
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_18
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 123
+        width: 28
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_19
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 91
+        width: 38
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_20
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 124
+        width: 44
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_21
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 127
+        width: 8
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_22
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 130
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_23
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 148
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_24
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 153
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_25
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 132
+        width: 4
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_26
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 92
+        width: 4
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_27
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 84
+        width: 4
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_28
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 71
+        width: 4
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_29
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 6
+        width: 4
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_30
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 62
+        width: 4
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_31
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 144
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_32
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 138
+        width: 18
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Alienicon23_33
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 133
+        width: 12
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
